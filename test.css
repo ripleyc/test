@@ -1,2 +1,26 @@
-body{background-color:navy;}
+#body_center {text-align:center;}
+		.box_bodyRight {font-size:12px; display:block;}
+		.box_bodyRight p {padding-bottom: 10px; padding-left: 10px;}
+		#body_in {text-align:left;}
+		.transportation_table td {padding:5px; text-align:left;}
+		.transportation_table th {padding:5px; text-align:center;}
+        table {border: 0px; border-collapse:separate;}
+        .person {clear:both; width: 910px; padding: 1px 1px 20px 1px; display:inline-block; border-bottom:thick #EEDEC8 solid; margin-bottom: 20px; }
+		#mostWantedContent h3 {margin:10px 0px; color:#000; background-color:#ddd; clear:both; padding:7px; font-size:14px; font-weight:bold;}
+        #mostWantedContent h4 {margin:10px 0px; color:#000; background-color:#ddd; clear:both; padding:7px; font-size:14px; font-weight:bold;}
+        #logo {float:left; display:inline-block;}
+        #textdesc {float:left; display:inline-block; padding:1em;/*width: 600px; text-align:left; margin-left:60px; margin-top:20px;*/}
+        #firstP {text-align:center; max-width:60em;}
+		#firstP p img {padding:20px;}
+        .wantedLeft{float:left; width: 390px; text-align:left;  display:inline-block;}
+        /*.wantedLeft .vitals table tr td {border:0px; padding:3px; font-size:12px; color:#000;}*/
+        .vitals {clear:both;display:inline-block; }
+        .wantedRight{float:left; width:500px; text-align:left; display:inline-block;}
+        .divider {float:left; width: 20px; height:250px; display:inline-block;}
+        .wanted4 h5 {margin:10px 0px; color:#000; background-color:yellow; clear:both; padding:7px; font-size:14px; font-weight:bold;}
+        .wanted5 h5 {margin:10px 0px; color:#000; background-color:red; clear:both; padding:7px; font-size:14px; font-weight:bold;}
+        .wanted6 h5 {margin:10px 0px; color:#000; background-color:orange; clear:both; padding:7px; font-size:14px; font-weight:bold;}
+        .righty {float: right;}
+        .colorCodes {margin-top: -35px;}
+        .colorCodes img {height: 28px;}
 
